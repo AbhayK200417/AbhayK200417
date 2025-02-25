@@ -22,6 +22,7 @@ I'm a versatile developer specializing in Unreal Engine, Unity, game development
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/abhay200417/)
+- [Instagram]([https://www.instagram.com/abhay200417/])
 
 Feel free to explore my repositories and reach out for collaborations or discussions on game development and XR technologies!
 
