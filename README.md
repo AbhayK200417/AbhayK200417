@@ -21,12 +21,13 @@ I'm a versatile developer specializing in Unreal Engine, Unity, game development
 
 ## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/abhay200417/)
-- [Instagram](https://www.instagram.com/abhay200417/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay200417/)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhay200417/)
 
 Feel free to explore my repositories and reach out for collaborations or discussions on game development and XR technologies!
 
 ## My Contributions
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhayK200417/AbhayK200417/output/github-contribution-grid-snake-dark.svg" />
