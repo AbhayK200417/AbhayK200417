@@ -19,10 +19,20 @@ I'm a versatile developer specializing in Unreal Engine, Unity, game development
 - 3D Modeling
 - Game Design
 
-## Connect With Me
+## 🚀 Connect with me 🤝
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay200417/)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhay200417/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhay200417/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/abhay200417" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/abhay200417/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+  </a>
+</p>
+
 
 Feel free to explore my repositories and reach out for collaborations or discussions on game development and XR technologies!
 
