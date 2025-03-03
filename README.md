@@ -25,9 +25,6 @@ I'm a versatile developer specializing in Unreal Engine, Unity, game development
   <a href="https://www.linkedin.com/in/abhay200417/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/abhay200417" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
-  </a>
   <a href="https://www.instagram.com/abhay200417/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
   </a>
