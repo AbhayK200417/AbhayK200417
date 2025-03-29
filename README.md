@@ -2,6 +2,10 @@
 
 I'm a versatile developer specializing in Unreal Engine, Unity, game development, and XR technologies. I'm passionate about creating immersive digital experiences and pushing the boundaries of interactive entertainment.
 
+📊 **Profile Views:**  
+![Profile Views](https://komarev.com/ghpvc/?username=AbhayK200417&color=brightgreen)
+
+
 ## About Me
 
 - 🎮 Proficient in Unreal Engine and Unity development  
@@ -30,8 +34,6 @@ I'm a versatile developer specializing in Unreal Engine, Unity, game development
   </a>
 </p>
 
-📊 **Profile Views:**  
-![Profile Views](https://komarev.com/ghpvc/?username=AbhayK200417&color=brightgreen)
 
 Feel free to explore my repositories and reach out for collaborations or discussions on game development and XR technologies!
 
