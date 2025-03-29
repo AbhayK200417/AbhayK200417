@@ -37,6 +37,15 @@ I'm a versatile developer specializing in Unreal Engine, Unity, game development
 
 Feel free to explore my repositories and reach out for collaborations or discussions on game development and XR technologies!
 
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhayK200417&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayK200417&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+
 ## My Contributions
 
 <picture>
