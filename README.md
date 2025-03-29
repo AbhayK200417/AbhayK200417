@@ -41,8 +41,8 @@ Feel free to explore my repositories and reach out for collaborations or discuss
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhayK200417&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayK200417&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhayK200417&show_icons=true&theme=blue-white" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayK200417&layout=compact&theme=blue-white" alt="Most Used Languages" />
 </p>
 
 
