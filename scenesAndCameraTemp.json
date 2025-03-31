@@ -1,0 +1,110 @@
+{
+  "proj_001": {
+    "cameras": {
+      "cam_001": {
+        "name": "Camera 1",
+        "location": {
+          "x": 100.0,
+          "y": 200.0,
+          "z": 300.0
+        },
+        "rotation": {
+          "pitch": 45.0,
+          "yaw": 90.0,
+          "roll": 0.0
+        },
+        "screenshot": "base64_encoded_image_string",
+        "created_at": "2025-03-31T10:00:00Z",
+        "updated_at": "2025-03-31T10:15:00Z"
+      },
+      "cam_002": {
+        "name": "Camera 2",
+        "location": {
+          "x": 150.0,
+          "y": 250.0,
+          "z": 350.0
+        },
+        "rotation": {
+          "pitch": 30.0,
+          "yaw": 60.0,
+          "roll": 0.0
+        },
+        "screenshot": "base64_encoded_image_string",
+        "created_at": "2025-03-31T11:00:00Z",
+        "updated_at": "2025-03-31T11:20:00Z"
+      }
+    }
+  },
+  "proj_002": {
+    "cameras": {
+      "cam_003": {
+        "name": "Camera 1",
+        "location": {
+          "x": 200.0,
+          "y": 300.0,
+          "z": 400.0
+        },
+        "rotation": {
+          "pitch": 60.0,
+          "yaw": 120.0,
+          "roll": 10.0
+        },
+        "screenshot": "base64_encoded_image_string",
+        "created_at": "2025-03-31T12:00:00Z",
+        "updated_at": "2025-03-31T12:30:00Z"
+      },
+      "cam_004": {
+        "name": "Camera 2",
+        "location": {
+          "x": 250.0,
+          "y": 350.0,
+          "z": 450.0
+        },
+        "rotation": {
+          "pitch": 15.0,
+          "yaw": 45.0,
+          "roll": 5.0
+        },
+        "screenshot": "base64_encoded_image_string",
+        "created_at": "2025-03-31T13:00:00Z",
+        "updated_at": "2025-03-31T13:20:00Z"
+      }
+    }
+  },
+  "proj_003": {
+    "cameras": {
+      "cam_005": {
+        "name": "Camera 1",
+        "location": {
+          "x": 300.0,
+          "y": 400.0,
+          "z": 500.0
+        },
+        "rotation": {
+          "pitch": 25.0,
+          "yaw": 75.0,
+          "roll": 15.0
+        },
+        "screenshot": "base64_encoded_image_string",
+        "created_at": "2025-03-31T14:00:00Z",
+        "updated_at": "2025-03-31T14:30:00Z"
+      },
+      "cam_006": {
+        "name": "Camera 2",
+        "location": {
+          "x": 350.0,
+          "y": 450.0,
+          "z": 550.0
+        },
+        "rotation": {
+          "pitch": 35.0,
+          "yaw": 85.0,
+          "roll": 20.0
+        },
+        "screenshot": "base64_encoded_image_string",
+        "created_at": "2025-03-31T15:00:00Z",
+        "updated_at": "2025-03-31T15:20:00Z"
+      }
+    }
+  }
+}
