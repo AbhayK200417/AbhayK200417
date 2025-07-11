@@ -51,14 +51,6 @@ I'm a versatile developer specializing in Unreal Engine, Unity, game development
 
 ---
 
-## 🧮 Developer Metrics
-
-<a href="https://github.com/AbhayK200417">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhayK200417&theme=blueberry" />
-</a>
-
----
-
 ## 🐍 GitHub Contribution Snake
 
 <picture>
