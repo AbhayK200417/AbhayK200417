@@ -2,8 +2,14 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
-  workflow_dispatch: # Allows manual triggering
+    # Pick ONE of these. Comment out the one you don't want.
+    - cron: "30 18 * * *"   # recommended: once daily at ~00:00 IST
+    # - cron: "0 */12 * * *"  # or: every 12 hours
+  workflow_dispatch:
+
+concurrency:
+  group: snake-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -12,27 +18,22 @@ jobs:
       contents: write
 
     steps:
-      # Checkout the repository
-      - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
 
-      # Generate the snake animation
-      - uses: Platane/snk@v3
+      - name: Build snake SVGs
+        uses: Platane/snk@v3
         with:
-          github_user_name: AbhayK200417 # Replace with your GitHub username
+          github_user_name: AbhayK200417
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Push the generated files to the output branch
-      - name: Push Snake Animation to Output Branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          # optional: keep_history: true
+          # optional: commit_message: "chore: update contribution snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-env:
-  ACTIONS_STEP_DEBUG: true
