@@ -40,15 +40,6 @@
 
 ---
 
-## 📈 Developer Metrics (auto-updating)
-
-
-<p align="center">
-  <img src="./metrics.svg" alt="GitHub metrics card" />
-</p>
-
----
-
 ## 🔥 Streak / Languages (classic cards)
 
 
