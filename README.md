@@ -40,7 +40,7 @@
 
 ---
 
-## 🔥 Streak / Languages (classic cards)
+## 🔥 Streak / Languages 
 
 
 <p align="center">
@@ -51,7 +51,7 @@
 
 ---
 
-## 🐍 Contribution Snake (auto-updating)
+## 🐍 Contribution Snake 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhayK200417/AbhayK200417/output/github-contribution-grid-snake-dark.svg" />
