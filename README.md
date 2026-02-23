@@ -2,31 +2,6 @@
 <div align="center">
 
 # Hi, I'm Abhay 👋  
-### Unreal • Unity • XR • Gameplay • Shaders
-
-[![Profile Views](https://komarev.com/ghpvc/?username=AbhayK200417&color=brightgreen&style=flat-square)](https://github.com/AbhayK200417)
-
-</div>
-
----
-
-## 🧠 About Me
-- 🎮 Unreal Engine (Blueprints & C++) and Unity (C#)
-- 🕹️ Gameplay mechanics, tools, and editor-extensibility
-- 🥽 XR (AR/VR) prototyping & interactions
-- 🎨 Shaders/Materials, rendering tricks, performance-aware pipelines
-- 🚀 Always learning, shipping, and polishing player feel
-
----
-
-## 💻 Skills
-- **Engines:** Unreal Engine, Unity  
-- **Gameplay & Tools:** C++/C#, Blueprints, Editor tools, input, UI, save systems  
-- **XR:** VR/AR interaction, hand tracking, spatial UX  
-- **Art & Tech:** Materials/Shaders, asset integration, lighting, basic modeling  
-- **Workflow:** Git/GitHub, CI/CD, profiling, optimization
-
----
 
 ## 🔗 Connect
 <p align="left">
